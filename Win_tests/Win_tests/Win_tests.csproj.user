@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PgClasses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pages\PgGroups.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pages\PgMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pages\PgResults.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pages\PgTests.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pages\PgUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\LiGTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\LiHomeTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\LiQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\LiRQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\LiTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\LiTQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Li_Group.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Wins\EditorGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\Group.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\SendTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\Testing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\WallResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\WinClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wins\WinUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

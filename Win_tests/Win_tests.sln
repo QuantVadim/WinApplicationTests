@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Win_tests", "Win_tests\Win_tests.csproj", "{05CC548D-18C0-4A1D-815B-0F090AC0E58D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Данное приложение предназначено для тестирования учащизся МБОУ СОШ №1
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CC548D-18C0-4A1D-815B-0F090AC0E58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CC548D-18C0-4A1D-815B-0F090AC0E58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CC548D-18C0-4A1D-815B-0F090AC0E58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CC548D-18C0-4A1D-815B-0F090AC0E58D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E05E6DFE-5FD3-481B-A0D5-035D4A7D50BA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Form1.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.csproj.GenerateResource.cache
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.AssemblyInfoInputs.cache
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.AssemblyInfo.cs
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.csproj.CoreCompileInputs.cache
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.genruntimeconfig.cache
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\Npgsql.dll
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.csproj.CopyComplete
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.MainForm.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Pages.PgGroups.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Pages.PgTests.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.UserControls.Li_Group.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.Group.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.UserControls.LiTest.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.UserControls.LiQuestion.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.Test.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.SendTest.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.UserControls.LiGTest.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.UserControls.LiTQuestion.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.Testing.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.Result.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.UserControls.LiRQuestion.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.WallResults.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Pages.PgResults.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Pages.PgMain.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Properties.Resources.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.UserControls.LiHomeTest.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Pages.PgUsers.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.WinUser.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.EditorGroup.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Pages.PgClasses.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.Wins.WinClass.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.AboutBox1.resources
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.exe
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.deps.json
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.runtimeconfig.json
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.runtimeconfig.dev.json
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.dll
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\bin\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.pdb
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.dll
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Тестирование учащихся МБОУ СОШ №1.pdb
+G:\РКСИ\Петрова\Курсовая\Project\Win_tests\Win_tests\obj\Debug\netcoreapp3.1\Win_tests.csprojAssemblyReference.cache
